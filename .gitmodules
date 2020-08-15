@@ -1,0 +1,3 @@
+[submodule "lib/DueTimer"]
+	path = lib/DueTimer
+	url = https://github.com/ivanseidel/DueTimer.git
